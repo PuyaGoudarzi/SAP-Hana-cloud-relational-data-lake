@@ -1,8 +1,6 @@
 # Description
 
-This project is for SAP HANA Cloud, data lake users who are reading the [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US) on SAP Help Portal.
-
-This project contains three sample files required by the Quick Start tutorials:
+This project is for SAP HANA Cloud, data lake users and contains three sample files:
 
 - event_samp.CSV
 - gkg_samp.CSV
@@ -16,18 +14,6 @@ This project contains two code snippets containing CREATE TABLE statements:
 - Create_CAMEOCODES_Table.txt
 
 Copy and paste these CREATE TABLE commands when instructed by the documentation.
-
-# Requirements
-
-On the SAP Help Portal, you are currently following the Quick Start tutorials for SAP HANA Cloud, data lake. Either:
-
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or
-
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US)
-
-You've read the **Prerequisites** section on the first page of the above tutorial(s).
-
-You've read the **Tutorial Scope** section on the first page of the above tutorial(s).
 
 # Download and Installation
 
